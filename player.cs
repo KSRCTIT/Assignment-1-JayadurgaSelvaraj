@@ -6,7 +6,7 @@ class Program
         int playerA = 20;
         int playerB = 15;
 
-        Console.WriteLine("🎮 Game Score Comparison 🎮\n");
+        Console.WriteLine("Game Score Comparison \n");
 
         bool aMoreThanB = playerA > playerB;
         Console.WriteLine("Did Player A score more than Player B? " + aMoreThanB);
